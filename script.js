@@ -125,7 +125,9 @@ if(loginForm){
         }
 
 
-        alert("Login successful!");
+        
+        alert("Backend authentication is coming soon. This is a demo website.");
+loginForm.reset();
 
         loginForm.reset();
 
